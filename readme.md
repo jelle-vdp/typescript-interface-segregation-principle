@@ -1,4 +1,8 @@
 # Interface segregation principle
+Typescript exercise for the BeCode webdevelopment course. Improved the old typescript file (also in this repository) based on SOLID's Interface Segregation Principle.<br>
+Link: https://jelle-vdp.github.io/typescript-interface-segregation-principle/
+
+## About ISP
 "Many client-specific interfaces are better than one general-purpose interface."
 
 Interfaces are really good, but like with everything that is good you can go overboard. It is really important that when we create interfaces that are precise and modular. 
