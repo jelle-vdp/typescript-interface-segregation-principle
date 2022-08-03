@@ -18,6 +18,7 @@ interface BirdInterface {
     fly();
     getFlySpeed();
 }
+
 class Parrot implements BirdInterface {}
 ```
 
